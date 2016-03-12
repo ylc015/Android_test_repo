@@ -9,7 +9,7 @@ import android.view.MenuItem;
 public class MainActivity extends ActionBarActivity {
 
 
-    //first change made by Peter
+    //first change made by Peter.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
